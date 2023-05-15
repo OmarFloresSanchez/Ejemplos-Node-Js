@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "express-myconnection": "^1.0.4",
+    "mysql2": "^3.3.0"
+  },
+  "name": "ejemplos_node_js",
+  "version": "1.0.0",
+  "description": "Este es mi tareita de node js",
+  "main": "Ejemplo0.js",
+  "scripts": {
+    "start": "node src/Ejemplo5.js",
+    "dev": "nodemon src/Ejemplo5.js"
+  },
+  "keywords": [
+    "JoJo's",
+    "Vegeta",
+    "777",
+    "WillyRex",
+    "Pokemon"
+  ],
+  "author": "Omar Flores Sánchez",
+  "license": "ISC"
+}
